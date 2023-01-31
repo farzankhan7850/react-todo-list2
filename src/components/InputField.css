@@ -1,0 +1,17 @@
+.form{
+    height: 4rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom-color: blueviolet;
+    /* padding-top:; */
+    background-color: #f8f9fa;
+}
+.form button{
+    background-color: #104491;
+    color: white;
+}

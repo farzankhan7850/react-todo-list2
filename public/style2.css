@@ -1,0 +1,20 @@
+body {
+  background-image: linear-gradient(
+    to right top,
+    #104491,
+    #4b54ac,
+    #7963c6,
+    #a771dd,
+    #d67ff1
+  );
+  background-repeat: no-repeat;
+  margin-top: 50%;
+  margin-bottom: 50%;
+  font-family: Oswald, cursive;
+  /* font-size: 5rem ; */
+}
+footer {
+  margin-top: 8rem;
+  margin-bottom: 0;
+  justify-content: center;
+}
